@@ -1,0 +1,9 @@
+pyyaml
+pytorch==1.4
+scipy
+opencv
+tensorboardX
+scikit-learn
+easydict
+imgaug
+dxfgrabber

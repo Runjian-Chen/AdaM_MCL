@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef4bd97f-53fc-4141-bf4a-176b67abb7d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DL_Aided_MCL" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aAGVEvq7F8jY0tbZVDTZ4yc4j2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/PGN_model" />
+      <recent name="$PROJECT_DIR$/code/utils" />
+      <recent name="$PROJECT_DIR$/code/Data_Loaders" />
+      <recent name="$PROJECT_DIR$/code/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Bicocca_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DL_Aided_MCL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/Data_processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Data_processor/Bicocca_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Bicocca_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef4bd97f-53fc-4141-bf4a-176b67abb7d9" name="Default Changelist" comment="" />
+      <created>1586171006255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586171006255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2088" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592311689108">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2088" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1592311689108" />
+    <state x="2138" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590147364911">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2138" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1590147364911" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1592225877753">
+      <screen x="1440" y="-147" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-147.1920.1080@1440.-147.1920.1080" timestamp="1592225877753" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1589872000228" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1592225877753">
+      <screen x="1440" y="-147" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-147.1920.1080@1440.-147.1920.1080" timestamp="1592225877753" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1589872000227" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1592225877752">
+      <screen x="1440" y="-147" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-147.1920.1080@1440.-147.1920.1080" timestamp="1592225877752" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1589872000226" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1592225877753">
+      <screen x="1440" y="-147" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-147.1920.1080@1440.-147.1920.1080" timestamp="1592225877753" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1589872000227" />
+    <state x="1592" y="401" key="SettingsEditor" timestamp="1595905878724">
+      <screen x="1440" y="111" width="1920" height="1080" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589971518597" />
+    <state x="1592" y="290" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1592289359812" />
+    <state x="1592" y="401" key="SettingsEditor/0.0.1440.900/1440.111.1920.1080@1440.111.1920.1080" timestamp="1595905878724" />
+    <state x="2130" y="290" width="540" height="524" key="StructurePopup" timestamp="1589872007804">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2130" y="290" width="540" height="524" key="StructurePopup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1589872007804" />
+    <state x="2009" y="127" width="782" height="825" key="find.popup" timestamp="1590151001000">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2009" y="127" width="782" height="825" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1590151001000" />
+    <state x="1953" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1594689827545">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1953" y="88" width="894" height="812" key="search.everywhere.popup/0.0.1440.900/1440.-147.1920.1080@1440.-147.1920.1080" timestamp="1592318799591" />
+    <state x="1953" y="235" width="894" height="812" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1594689827545" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588863997957" />
+  </component>
+</project>

@@ -1,8 +1,9 @@
-# A Samplable Multimodal Observation Model for Global Localization and Kidnapping
+# Deep Samplable Observation Model for Global Localization and Kidnapping
 
 ![](figs/DSOM.png)
 
-<center><b>Stucture of Deep Multimodal Observation Model</b></center>
+<center><b>Stucture of Deep Samplable Observation Model</b></center>
+
 ## Requirements
 
 To install requirements:
